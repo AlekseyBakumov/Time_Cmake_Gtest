@@ -3,4 +3,5 @@
 - cd build
 - cmake ..
 - make (.sln file for Windows)
-Run "./my_time_test"
+
+<h3>Run "./my_time_test"
